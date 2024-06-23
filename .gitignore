@@ -1,0 +1,19 @@
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
